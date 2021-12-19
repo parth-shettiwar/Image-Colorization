@@ -34,8 +34,11 @@ In both inf_im and Predict folders, I have kept one image, which I already ran u
 There are multiple torch and skimage libraries which have been used. Kindly go into the train and inference file to see what all librarie need to be installed
 
 ## Results 
-Input grayscale image and output Colorized image
+Input grayscale image and output Colorized image. 
+
 <a href="url"><img src="https://github.com/parth-shettiwar/Image-Colorization/blob/main/inf_im/725.jpg" align="left" height="250" width="250" ></a>
-![.](https://github.com/parth-shettiwar/Image-Colorization/blob/main/Predict/Coloured725.jpg)
+![.](https://github.com/parth-shettiwar/Image-Colorization/blob/main/Predict/Coloured725.jpg). 
+
+<a href="url"><img src="https://github.com/parth-shettiwar/Image-Colorization/blob/main/Predict/results.png" align="left" height="620" width="620" ></a>
 
 
