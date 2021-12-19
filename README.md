@@ -1,6 +1,6 @@
 # Image Colorization
 The objective is to produce color images given grayscale input image. Solved by leveraing LAB colour space where L stands for liughtness channel and is directly 
-proportional to the grauscale image. The rest 2 channels capture the red, green and yellow colour space in RGB channels. Standard Resnet is used as backbone architecture with its 6 blocks.
+proportional to the grauscale image. The rest 2 channels capture the red, green and yellow colour space in RGB channels. Standard Resnet is used as backbone architecture with its 6 blocks. Click [here](https://drive.google.com/drive/folders/1-EGdCesb0TefanxsUV5nynZXXNHs14JN?usp=sharing) to download the dataset. The dataset consists of landscape images mainly.
   
 
 The repo consists of following files and folders:    
